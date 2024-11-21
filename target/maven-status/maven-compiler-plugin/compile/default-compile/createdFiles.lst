@@ -1,0 +1,6 @@
+me\isra\shop\ShopApplication.class
+me\isra\shop\model\Producto.class
+me\isra\shop\repository\ProductoRepository.class
+me\isra\shop\service\ProductoService.class
+me\isra\shop\controller\ProductoController.class
+me\isra\shop\model\Producto$ProductoBuilder.class
